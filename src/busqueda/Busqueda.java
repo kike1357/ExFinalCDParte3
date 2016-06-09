@@ -2,6 +2,9 @@ package busqueda;
 
 public class Busqueda {
 
+    
+    //añadido de comentario en la rama creada consola
+    
     public static void main(String[] args) {
         int[] numeros = new int[100];
         for (int i = 0; i < numeros.length; i++) {
