@@ -4,6 +4,7 @@ public class Busqueda {
 
     
     //añadido de comentario en la rama creada consola
+    //añadido de comentario en la rama creada grafica
     
     public static void main(String[] args) {
         int[] numeros = new int[100];
